@@ -1,0 +1,1 @@
+module.exports = ["FITEX", "FTT", 100000000000];
